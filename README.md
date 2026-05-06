@@ -1,2 +1,31 @@
-# 85c61de9-ai-model-deployment-and-mlops-
-n8n workflow automating machine learning model deployment and monitoring across cloud infrastructure. Triggers on model training completion event, runs automated test suite against held-out dataset, calculates performance drift from production baseline, packages model artifacts to Docker container, deploys to AWS SageMaker or GCP Vertex via API, ru
+# AI Model Deployment and MLOps Workflow
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/6oU7sL6mXbUEbRSfQ8cZa0C)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/6oU7sL6mXbUEbRSfQ8cZa0C)
+- [Buy on Gumroad](https://gumroadian755.gumroad.com/l/tgips)
+- [Buy on Whop](https://whop.com/ai-model-deployment-and-mlops-workflow)
+
